@@ -36,4 +36,4 @@
 ### 🚌 Top Langs & Algorithm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxcxz01&layout=compact)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxcxz01)](https://solved.ac/profile/zxcxz01)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxcxz_1)](https://solved.ac/profile/zxcxz01)
