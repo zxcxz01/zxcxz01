@@ -38,6 +38,10 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxcxz_1)](https://solved.ac/profile/zxcxz_1)
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{zxcxz01}"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=zxcxz01&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/zxcxz01"
+  width="600"
+  height="300"
+/>
 </a>
